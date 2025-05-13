@@ -13,3 +13,8 @@ Carrega e trata os dados dos filmes
 - Exibe na tela o título, gênero, duração e uma descrição do filme
 
 - Ferramentas utilizadas: tkinter, pandas
+
+Resultado:
+
+![image](https://github.com/user-attachments/assets/620ce697-aa3c-4ddb-9f13-4fac5c2bf922)![image](https://github.com/user-attachments/assets/0a12693d-3e95-42b0-b0b8-4264cf42c82f)
+
